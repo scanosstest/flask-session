@@ -12,6 +12,16 @@
       "url": "https://github.com/fengsp/flask-session",
       "licenses": [
       ]
+    },
+    {
+      "type": "library",
+      "publisher": "madler",
+      "group": "madler",
+      "name": "zlib",
+      "url": "https://github.com/madler/zlib",
+      "licenses": [
+        "Zlib"
+      ]
     }
   ]
 }
