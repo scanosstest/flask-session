@@ -1,0 +1,17 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.2",
+  "version": 1,
+  "serialNumber": "minr:1600088466",
+  "components": [
+    {
+      "type": "library",
+      "publisher": "fengsp",
+      "group": "fengsp",
+      "name": "flask-session",
+      "url": "https://github.com/fengsp/flask-session",
+      "licenses": [
+      ]
+    }
+  ]
+}
